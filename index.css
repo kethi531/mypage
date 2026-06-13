@@ -3,8 +3,10 @@
   padding:20px 0;
   color: black;
   font-size: 40px;
+  font-weight: bold;
 }
 .sub_text {
   text-align:center;
   padding:20px 0;
+  color: gray;
 }
